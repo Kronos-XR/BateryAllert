@@ -13,6 +13,7 @@ namespace BateryAllert
         {
             Console.WriteLine((SystemInformation.PowerStatus.BatteryLifePercent * 100).ToString() + "%" , "Заряд батареи %");
             Console.ReadKey();
+
         }
     }
 }
