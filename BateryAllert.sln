@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BateryAllert", "BateryAllert\BateryAllert.csproj", "{6B8D6829-ED20-47FB-B072-A8D144F88A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8D6829-ED20-47FB-B072-A8D144F88A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8D6829-ED20-47FB-B072-A8D144F88A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8D6829-ED20-47FB-B072-A8D144F88A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8D6829-ED20-47FB-B072-A8D144F88A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FF8F9D3-EBC9-41F0-ADAC-8E9CA1B153C5}
+	EndGlobalSection
+EndGlobal
